@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunirbanbiswawas
+- 👋 Hi, I’m @sunirbanbiswas
 - 👀 I’m interested in ...Cloud App Devolpement and Deployment
 - 🌱 I’m currently learning ...Azure Cloud
 - 💞️ I’m looking to collaborate on ...
