@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sunirbanbiswas
 - 👀 I’m interested in ...Cloud App Devolpement and Deployment
-- 🌱 I’m currently learning ...Azure Cloud
+-     I'm currently working as a Pega Developer
+- 🌱 I’m currently learning ...Azure Cloud, Python and Pega Senior Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
